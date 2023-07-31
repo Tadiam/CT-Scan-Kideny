@@ -4,3 +4,5 @@ Several recent studies have demonstrated the effectiveness of AI in detecting va
 Kidney diseases are a significant and growing problem globally and are among the leading causes of death and a contributor to worldwide morbidity. Several factors contribute to the increasing prevalence of heart disease, including an aging population, lack of exercise, unhealthy diet, stress and mental health, and more.
 
 Using datasets of kidney CT Scans, that contain images of kidneys that are normal, have cyst, tumor and stones, to resolve a classification problem. After conducting some preprocessing steps we used two deep learning algorithms, VGG and AlexNet to model. 
+
+Source: https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
